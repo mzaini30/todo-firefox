@@ -69,7 +69,7 @@ function hapus(x) {
     />
   </form>
 
-  <div class="p-2 px-3 py-1 bg-pink-200 overflow-auto max-h-50">
+  <div class="p-2 px-3 py-1 bg-pink-200 grid grid-cols-1 gap-1 overflow-auto max-w-[224px] max-h-50">
     <div class="text-sm" v-for="x in data">
       {{ x }}
       <span
