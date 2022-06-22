@@ -1,7 +1,7 @@
 {
   "name": "coba-vite-vue",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "dev": "node script/copyIndex.mjs && vite",
     "build": "vite build && node script/removeCsp.mjs",
