@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   aria-hidden="true"
+   role="img"
+   class="iconify iconify--eos-icons"
+   width="32"
+   height="32"
+   preserveAspectRatio="xMidYMid meet"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="EosIconsEnhancement.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="17.6875"
+     inkscape:cx="15.886926"
+     inkscape:cy="17.498233"
+     inkscape:window-width="1330"
+     inkscape:window-height="743"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <rect
+     style="fill:none;stroke-width:29.1608"
+     id="rect869"
+     width="20.019751"
+     height="20.019751"
+     x="2.6090558"
+     y="3.7899616"
+     inkscape:export-filename="/home/zen/addons/todo/public/icon.png"
+     inkscape:export-xdpi="460.35001"
+     inkscape:export-ydpi="460.35001" />
+  <path
+     fill="currentColor"
+     d="m 2.6289307,15.779837 h 4 v 8.02 h -4 z M 9.6289312,11.809836 H 13.628931 V 23.799837 H 9.6289312 Z m 12.9799998,-4.0199995 -4,-4 -4,4 h 2 V 23.809837 h 4 V 7.7898365 Z"
+     id="path2"
+     inkscape:export-filename="/home/zen/addons/todo/public/icon.png"
+     inkscape:export-xdpi="460.35001"
+     inkscape:export-ydpi="460.35001" />
+</svg>
